@@ -153,7 +153,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/addressesResponse"
+              "$ref": "./common.oas2.json#/definitions/addressesResponse"
             },
             "examples": {
               "application/json": {
@@ -266,7 +266,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/cart_itemsResponse"
+              "$ref": "./common.oas2.json#/definitions/cart_itemsResponse"
             },
             "examples": {
               "application/json": {
@@ -416,7 +416,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/cartsResponse"
+              "$ref": "./common.oas2.json#/definitions/cartsResponse"
             },
             "examples": {
               "application/json": {
@@ -512,7 +512,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/affiliatesResponse"
+              "$ref": "./common.oas2.json#/definitions/affiliatesResponse"
             },
             "examples": {
               "application/json": {
@@ -589,7 +589,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/attribute_groupsResponse"
+              "$ref": "./common.oas2.json#/definitions/attribute_groupsResponse"
             },
             "examples": {
               "application/json": {
@@ -629,7 +629,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/attributesResponse"
+              "$ref": "./common.oas2.json#/definitions/attributesResponse"
             },
             "examples": {
               "application/json": {
@@ -723,7 +723,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/blog_categories"
+              "$ref": "./common.oas2.json#/definitions/blog_categories"
             },
             "examples": {
               "application/json": {
@@ -758,7 +758,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/blog_posts"
+              "$ref": "./common.oas2.json#/definitions/blog_posts"
             },
             "examples": {
               "application/json": {
@@ -803,7 +803,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/blogs"
+              "$ref": "./common.oas2.json#/definitions/blogs"
             },
             "examples": {
               "application/json": {
@@ -856,7 +856,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/blog_categoriesResponse"
+              "$ref": "./common.oas2.json#/definitions/blog_categoriesResponse"
             },
             "examples": {
               "application/json": {
@@ -903,7 +903,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/coupon_codesResponse"
+              "$ref": "./common.oas2.json#/definitions/coupon_codesResponse"
             },
             "examples": {
               "application/json": {
@@ -945,7 +945,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/credit_cardsResponse"
+              "$ref": "./common.oas2.json#/definitions/credit_cardsResponse"
             },
             "examples": {
               "application/json": {
@@ -993,7 +993,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/custom_field_valuesResponse"
+              "$ref": "./common.oas2.json#/definitions/custom_field_valuesResponse"
             },
             "examples": {
               "application/json": {
@@ -1054,7 +1054,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/custom_fieldsResponse"
+              "$ref": "./common.oas2.json#/definitions/custom_fieldsResponse"
             },
             "examples": {
               "application/json": {
@@ -1152,7 +1152,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/custom_shipping_methodsResponse"
+              "$ref": "./common.oas2.json#/definitions/custom_shipping_methodsResponse"
             },
             "examples": {
               "application/json": {
@@ -1233,7 +1233,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/customer_payment_methodsResponse"
+              "$ref": "./common.oas2.json#/definitions/customer_payment_methodsResponse"
             },
             "examples": {
               "application/json": {
@@ -1292,7 +1292,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/customer_typesResponse"
+              "$ref": "./common.oas2.json#/definitions/customer_typesResponse"
             },
             "examples": {
               "application/json": {
@@ -1337,7 +1337,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/customersResponse"
+              "$ref": "./common.oas2.json#/definitions/customersResponse"
             },
             "examples": {
               "application/json": {
@@ -1504,7 +1504,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/discount_methodsResponse"
+              "$ref": "./common.oas2.json#/definitions/discount_methodsResponse"
             },
             "examples": {
               "application/json": {
@@ -1571,7 +1571,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/discount_rulesResponse"
+              "$ref": "./common.oas2.json#/definitions/discount_rulesResponse"
             },
             "examples": {
               "application/json": {
@@ -1633,7 +1633,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/dripsResponse"
+              "$ref": "./common.oas2.json#/definitions/dripsResponse"
             },
             "examples": {
               "application/json": {
@@ -1677,7 +1677,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/email_templatesResponse"
+              "$ref": "./common.oas2.json#/definitions/email_templatesResponse"
             },
             "examples": {
               "application/json": {
@@ -1732,7 +1732,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/gift_certificate_transactionsResponse"
+              "$ref": "./common.oas2.json#/definitions/gift_certificate_transactionsResponse"
             },
             "examples": {
               "application/json": {
@@ -1785,7 +1785,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/gift_certificatesResponse"
+              "$ref": "./common.oas2.json#/definitions/gift_certificatesResponse"
             },
             "examples": {
               "application/json": {
@@ -1883,7 +1883,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/linksResponse"
+              "$ref": "./common.oas2.json#/definitions/linksResponse"
             },
             "examples": {
               "application/json": {
@@ -2004,7 +2004,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/mailing_listsResponse"
+              "$ref": "./common.oas2.json#/definitions/mailing_listsResponse"
             },
             "examples": {
               "application/json": {
@@ -2075,7 +2075,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/manufacturersResponse"
+              "$ref": "./common.oas2.json#/definitions/manufacturersResponse"
             },
             "examples": {
               "application/json": {
@@ -2164,7 +2164,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/microstoresResponse"
+              "$ref": "./common.oas2.json#/definitions/microstoresResponse"
             },
             "examples": {
               "application/json": {
@@ -2213,7 +2213,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/notificationsResponse"
+              "$ref": "./common.oas2.json#/definitions/notificationsResponse"
             },
             "examples": {
               "application/json": {
@@ -2278,7 +2278,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/order_addressesResponse"
+              "$ref": "./common.oas2.json#/definitions/order_addressesResponse"
             },
             "examples": {
               "application/json": {
@@ -2364,7 +2364,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/order_itemsResponse"
+              "$ref": "./common.oas2.json#/definitions/order_itemsResponse"
             },
             "examples": {
               "application/json": {
@@ -2431,7 +2431,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/order_paymentsResponse"
+              "$ref": "./common.oas2.json#/definitions/order_paymentsResponse"
             },
             "examples": {
               "application/json": {
@@ -2522,7 +2522,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/order_shipmentsResponse"
+              "$ref": "./common.oas2.json#/definitions/order_shipmentsResponse"
             },
             "examples": {
               "application/json": {
@@ -2617,7 +2617,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/order_statusesResponse"
+              "$ref": "./common.oas2.json#/definitions/order_statusesResponse"
             },
             "examples": {
               "application/json": {
@@ -2691,7 +2691,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/ordersResponse"
+              "$ref": "./common.oas2.json#/definitions/ordersResponse"
             },
             "examples": {
               "application/json": {
@@ -2980,7 +2980,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/pagesResponse"
+              "$ref": "./common.oas2.json#/definitions/pagesResponse"
             },
             "examples": {
               "application/json": {
@@ -3062,7 +3062,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/customer_payment_methodsResponse"
+              "$ref": "./common.oas2.json#/definitions/customer_payment_methodsResponse"
             },
             "examples": {
               "application/json": {
@@ -3131,7 +3131,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/price_calculator_rule_modifiersResponse"
+              "$ref": "./common.oas2.json#/definitions/price_calculator_rule_modifiersResponse"
             },
             "examples": {
               "application/json": {
@@ -3174,7 +3174,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/price_calculator_rulesResponse"
+              "$ref": "./common.oas2.json#/definitions/price_calculator_rulesResponse"
             },
             "examples": {
               "application/json": {
@@ -3214,7 +3214,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/price_calculatorsResponse"
+              "$ref": "./common.oas2.json#/definitions/price_calculatorsResponse"
             },
             "examples": {
               "application/json": {
@@ -3283,7 +3283,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/product_listsResponse"
+              "$ref": "./common.oas2.json#/definitions/product_listsResponse"
             },
             "examples": {
               "application/json": {
@@ -3324,7 +3324,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/product_picturesResponse"
+              "$ref": "./common.oas2.json#/definitions/product_picturesResponse"
             },
             "examples": {
               "application/json": {
@@ -3433,7 +3433,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/product_reviewsResponse"
+              "$ref": "./common.oas2.json#/definitions/product_reviewsResponse"
             },
             "examples": {
               "application/json": {
@@ -3546,7 +3546,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/product_statusesResponse"
+              "$ref": "./common.oas2.json#/definitions/product_statusesResponse"
             },
             "examples": {
               "application/json": {
@@ -3586,7 +3586,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/product_variantsResponse"
+              "$ref": "./common.oas2.json#/definitions/product_variantsResponse"
             },
             "examples": {
               "application/json": {
@@ -3685,7 +3685,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/productsResponse"
+              "$ref": "./common.oas2.json#/definitions/productsResponse"
             },
             "examples": {
               "application/json": {
@@ -4235,7 +4235,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/profilesResponse"
+              "$ref": "./common.oas2.json#/definitions/profilesResponse"
             },
             "examples": {
               "application/json": {
@@ -4277,7 +4277,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/quotesResponse"
+              "$ref": "./common.oas2.json#/definitions/quotesResponse"
             },
             "examples": {
               "application/json": {
@@ -4498,7 +4498,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/regionsResponse"
+              "$ref": "./common.oas2.json#/definitions/regionsResponse"
             },
             "examples": {
               "application/json": {
@@ -4586,7 +4586,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/sessionsResponse"
+              "$ref": "./common.oas2.json#/definitions/sessionsResponse"
             },
             "examples": {
               "application/json": {
@@ -4652,7 +4652,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/shipping_providersResponse"
+              "$ref": "./common.oas2.json#/definitions/shipping_providersResponse"
             },
             "examples": {
               "application/json": {
@@ -4729,7 +4729,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/shipping_rate_adjustmentsResponse"
+              "$ref": "./common.oas2.json#/definitions/shipping_rate_adjustmentsResponse"
             },
             "examples": {
               "application/json": {
@@ -4794,7 +4794,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/storesResponse"
+              "$ref": "./common.oas2.json#/definitions/storesResponse"
             },
             "examples": {
               "application/json": {
@@ -4856,7 +4856,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/subscriptionsResponse"
+              "$ref": "./common.oas2.json#/definitions/subscriptionsResponse"
             },
             "examples": {
               "application/json": {
@@ -4951,7 +4951,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/tax_ratesResponse"
+              "$ref": "./common.oas2.json#/definitions/tax_ratesResponse"
             },
             "examples": {
               "application/json": {
@@ -5013,7 +5013,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/url_redirectsResponse"
+              "$ref": "./common.oas2.json#/definitions/url_redirectsResponse"
             },
             "examples": {
               "application/json": {
@@ -5070,7 +5070,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/usersResponse"
+              "$ref": "./common.oas2.json#/definitions/usersResponse"
             },
             "examples": {
               "application/json": {
@@ -5184,7 +5184,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/variant_groupsResponse"
+              "$ref": "./common.oas2.json#/definitions/variant_groupsResponse"
             },
             "examples": {
               "application/json": {
@@ -5226,7 +5226,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/variant_inventoryResponse"
+              "$ref": "./common.oas2.json#/definitions/variant_inventoryResponse"
             },
             "examples": {
               "application/json": {
@@ -5267,7 +5267,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/warehousesResponse"
+              "$ref": "./common.oas2.json#/definitions/warehousesResponse"
             },
             "examples": {
               "application/json": {
@@ -5311,7 +5311,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/webhooksResponse"
+              "$ref": "./common.oas2.json#/definitions/webhooksResponse"
             },
             "examples": {
               "application/json": {
@@ -6219,7 +6219,7 @@
           "200": {
             "description": "",
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/wishlistsResponse"
+              "$ref": "./common.oas2.json#/definitions/wishlistsResponse"
             },
             "examples": {
               "application/json": {
