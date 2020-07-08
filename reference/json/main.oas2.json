@@ -131,7 +131,7 @@
               }
             },
             "schema": {
-              "$ref": "./common.oas2.yml#/definitions/adcodesResponse"
+              "$ref": "./common.oas2.json#/definitions/adcodesResponse"
             }
           }
         },
